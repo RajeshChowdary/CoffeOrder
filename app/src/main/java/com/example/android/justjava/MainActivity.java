@@ -12,7 +12,7 @@ import java.text.NumberFormat;
  */
 public class MainActivity extends ActionBarActivity {
 
-    int quantity = 0;
+    int quantity = 2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
